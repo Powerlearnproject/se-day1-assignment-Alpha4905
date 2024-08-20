@@ -34,21 +34,22 @@ Agile.
 projects with uncertain or changing requirements. innovative or experimental projects, fast paced environments e.g start, tech. large , complex projects with multiple stakeholders.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software developer is responsible for writing code and implenting software solutions. Quality assurance ensures software quality by making and executing test plans. as for a project manager oversees the plans , execute and deliver a software project.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+they provide comprehensive tools for writing codes, debugging and testing codes emg eclipse, visual studio e.t.c VCS is used for tracking changes to source codes and coordinating work among team members e.g git subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+tight deadlines, have enough time to work on the software to avoid compromise and mideocre works. technical debt to avoid making unnecessarily shorcuts. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+unit testing, integration testing, system testing help to identify and fix defects early in the development process leading to higher quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+AI prompt is crafting questions in a clear manner to get a clear cut answer from an AI.
+it's important because it gives specifications to questions asked.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"what is 2pm EAT in CAT?" "convert for me the time 2PM EAT to CAT. EAT is East African time while CAT is central African time. this question needs an answer in time zone.
